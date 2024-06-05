@@ -1,19 +1,13 @@
-![favicon](https://github.com/xndrgit/mywatchlist-xndr/assets/115892862/c5812e9b-b279-4ba1-96f8-9d6955afc826)
+# My Watch List
+This is a open-source contribution that allows users to search for TV series, movies, and characters. It provides a convenient way to explore trending movies, search for highly rated series, and discover information about your favorite characters.
+
+## A sneak peek into what we have here🙈 :
+![image](https://github.com/xndrgit/xndr-mywatchlist/assets/115892862/66d5e35e-1cfe-4430-ab1b-398aadd44f62)
 
 
-## Goal of the 'My Watch List' App
+## How to use this?🛠
+contact me via <a href="https://www.instagram.com/xndr.ig/"> instagram </a>
 
-The Watch List app is a comprehensive platform that allows users to search for TV series, movies, and characters. It provides a convenient way to explore trending movies, search for highly rated series, and discover information about your favorite characters.
+## Security Vulnerabilities & Collab 💌
+If you discover a security vulnerability or you wanna collab, please send an e-mail to xndr via [mymails.xander@gmail.com](mailto:mymails.xander@gmail.com).
 
-
-## The Technology Behind It
-
-Api integration " The Movie DB "
-
-## Sponsors
-- **[Instagram](https://www.instagram.com/xndr.ig/)**
-- **Discord:** xndr.ds
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability, please send an e-mail to xndr via [mymails.xander@gmail.com](mailto:mymails.xander@gmail.com). All security vulnerabilities will be promptly addressed.
